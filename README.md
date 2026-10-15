@@ -16,6 +16,7 @@ After returning to the Philippines, I established and now manage my own small-sc
 **Key Highlights**
 
 Operations Management: Workforce planning, scheduling, and process optimization
+
 Business Performance: Profitability improvement, cost control, and KPI reporting
 
 Customer Support: Team leadership, service quality, and escalation management
