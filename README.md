@@ -30,11 +30,17 @@ Entrepreneurship: Owner-operator of a small-scale aquaculture business in the Ph
 **Featured Case Studies**
 
 Branch Turnaround & Profitability Improvement
+
 Remittance Operations SOP Development
+
 POS API Testing & Implementation Support
+
 New Product Onboarding
+
 KPI Reporting & Workforce Scheduling
+
 Aquaculture Business Operations
+
 Tools & Certifications
 
 **Tools:** Microsoft Excel, NICE Actimize, internal CRM, POS, and compliance systems
@@ -42,11 +48,16 @@ Tools & Certifications
 **Certifications:**
 
 AI Certification Training — VJAL Institute
+
 Data Analytics Essentials — Cisco Networking Academy
+
 AI Fundamentals: Language and Vision in AI — Cisco Networking Academy
+
 Introduction to Cybersecurity — Cisco Networking Academy
+
 EF SET English Certificate — C1 Advanced
-Contact
+
+**Contact**
 
 📧 rachelleganoy2016@gmail.com
 
