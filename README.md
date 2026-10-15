@@ -41,11 +41,11 @@ KPI Reporting & Workforce Scheduling
 
 Aquaculture Business Operations
 
-Tools & Certifications
+**Tools & Certifications**
 
-**Tools:** Microsoft Excel, NICE Actimize, internal CRM, POS, and compliance systems
+Tools: Microsoft Excel, NICE Actimize, internal CRM, POS, and compliance systems
 
-**Certifications:**
+Certifications:
 
 AI Certification Training — VJAL Institute
 
