@@ -1,11 +1,11 @@
-Rachelle Ganoy
+**Rachelle Ganoy**
 
 Operations · Customer Support Excellence
 
 📍 Philippines | ✉️ rachelleganoy2016@gmail.com | www.linkedin.com/in/rachelle-ganoy
 
 
-About Me
+**About Me**
 
 Operations and customer experience professional with 18+ years of experience in financial services and operations in Qatar. Experienced in business performance, workforce planning, process improvement, customer support, and regulatory compliance.
 
@@ -13,7 +13,8 @@ A key career achievement was turning a loss-making branch into a profitable oper
 
 After returning to the Philippines, I established and now manage my own small-scale aquaculture business, overseeing daily operations, supply chain, inventory, labour, and financial planning.
 
-Key Highlights
+**Key Highlights**
+
 Operations Management: Workforce planning, scheduling, and process optimization
 Business Performance: Profitability improvement, cost control, and KPI reporting
 Customer Support: Team leadership, service quality, and escalation management
@@ -29,9 +30,9 @@ KPI Reporting & Workforce Scheduling
 Aquaculture Business Operations
 Tools & Certifications
 
-Tools: Microsoft Excel, NICE Actimize, internal CRM, POS, and compliance systems
+**Tools: **Microsoft Excel, NICE Actimize, internal CRM, POS, and compliance systems
 
-Certifications:
+**Certifications:**
 
 AI Certification Training — VJAL Institute
 Data Analytics Essentials — Cisco Networking Academy
@@ -42,6 +43,6 @@ Contact
 
 📧 rachelleganoy2016@gmail.com
 
-🔗 LinkedIn Profile
+🔗 www.linkedin.com/in/rachelle-ganoy
 
-Commercial and client figures are presented directionally to respect former employer confidentiality.
+_Commercial and client figures are presented directionally to respect former employer confidentiality._
