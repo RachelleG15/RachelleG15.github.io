@@ -1,7 +1,9 @@
 Rachelle Ganoy
+
 Operations · Customer Support Excellence
 
-📍 Philippines | ✉️ rachelleganoy2016@gmail.com | LinkedIn
+📍 Philippines | ✉️ rachelleganoy2016@gmail.com | www.linkedin.com/in/rachelle-ganoy
+
 
 About Me
 
