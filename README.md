@@ -16,12 +16,19 @@ After returning to the Philippines, I established and now manage my own small-sc
 **Key Highlights**
 
 Operations Management: Workforce planning, scheduling, and process optimization
+
 Business Performance: Profitability improvement, cost control, and KPI reporting
+
 Customer Support: Team leadership, service quality, and escalation management
+
 Compliance: AML/KYC/CFT, regulatory reporting, and audit readiness
+
 Systems & Processes: SOP development, API testing, and product onboarding
+
 Entrepreneurship: Owner-operator of a small-scale aquaculture business in the Philippines
-Featured Case Studies
+
+**Featured Case Studies**
+
 Branch Turnaround & Profitability Improvement
 Remittance Operations SOP Development
 POS API Testing & Implementation Support
@@ -30,7 +37,7 @@ KPI Reporting & Workforce Scheduling
 Aquaculture Business Operations
 Tools & Certifications
 
-**Tools: **Microsoft Excel, NICE Actimize, internal CRM, POS, and compliance systems
+**Tools:** Microsoft Excel, NICE Actimize, internal CRM, POS, and compliance systems
 
 **Certifications:**
 
