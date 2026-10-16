@@ -44,7 +44,7 @@ Operations and customer experience professional with **18+ years of experience**
 ### **Certifications**
 * **AI Certification Training** — VJAL Institute
 * **Data Analytics Essentials** — Cisco Networking Academy
-* **[AI Fundamentals: Language and Vision in AI] (https://www.credly.com/badges/e698a3fc-3ffb-4d6b-a8d1-4e69cb6e464f/public_url)** — Cisco Networking Academy
+* **[AI Fundamentals: Language and Vision in AI](https://www.credly.com/badges/e698a3fc-3ffb-4d6b-a8d1-4e69cb6e464f/public_url)** — Cisco Networking Academy
 * **Introduction to Cybersecurity** — Cisco Networking Academy
 * **EF SET English Certificate** — C1 Advanced
 
